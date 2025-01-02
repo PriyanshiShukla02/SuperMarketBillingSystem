@@ -1,2 +1,2 @@
-# Python_100Days
-This repository contains the concepts used in python as taught by Angela Yu in "Python 100 days of code" on Udemy.
+# Super Market Billing System
+The SuperMarket Billing System is a console-based application developed in C++ utilizing Object-Oriented Programming (OOP) concepts.
